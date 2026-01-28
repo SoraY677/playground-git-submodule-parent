@@ -1,0 +1,3 @@
+[submodule "playground-git-submodule-child"]
+	path = playground-git-submodule-child
+	url = git@github.com:SoraY677/playground-git-submodule-child.git
